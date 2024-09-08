@@ -46,7 +46,7 @@ A ideia original do projeto incluía o uso de vídeos, que podem ser utilizados 
 
 ## Como Usar
 
-1. Acesse em [Contexto - Visual Word Translator](https://imersao-alura-contexto.vercel.app/).
+1. Acesse em [Contexto](https://imersao-alura-contexto.vercel.app/).
 2. Na página inicial, digite uma palavra no campo de pesquisa.
 3. Clique no botão de pesquisa e veja os resultados visuais aparecerem.
 4. Use o botão de "voltar" para retornar à página inicial e fazer novas pesquisas.
