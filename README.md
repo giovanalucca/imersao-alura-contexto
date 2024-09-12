@@ -1,4 +1,4 @@
-# Contexto - Visual Word Translator
+# Contexto
 
 **Contexto** foi inicialmente um projeto de design gráfico e audiovisual que visava traduzir palavras em imagens e sons. Criado originalmente como meu projeto final de graduação em design gráfico, este site expande essa ideia, transformando-a em uma plataforma online onde usuários podem explorar significados visuais de palavras, tanto abstratas quanto concretas.
 
